@@ -1,16 +1,16 @@
-## Hi there 👋
+**Sejam bem vindos a minha página**
+Sou o Professor Maciel Barreto e estou lecionando o Itinerário Formativo de Tecnologia e Robótica.
 
-<!--
-**ProMaciba/ProMaciba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou à disposição para quem quiser entrar em contato.
+Meu 📧 é: _macielbarreto@prof.educacao.sp.gov.br_
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media1.tenor.com/m/F2Yu8YbVV_MAAAAC/hello-cat.gif)
+
+
+
+
+
+
+
+
